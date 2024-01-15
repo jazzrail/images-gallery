@@ -6,4 +6,4 @@
 .env.production.local
 
 # Wyndy
-/js-refresher
+js-refresher/
