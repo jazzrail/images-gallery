@@ -2,3 +2,4 @@ React automatically installs .git (hidden). Bogdan removes it from the frontend 
 Initiate .git in images-gallery folder now
 git init
 git branch -m main
+git rm --cached frontend/src/.eslintcache
